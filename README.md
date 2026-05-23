@@ -32,4 +32,5 @@ Highlighted opportunities to optimize inventory and pricing strategies.
 ---
 
 📌 Outcome
+
 Developed an interactive dashboard to track key performance indicators (KPIs) such as total sales, product performance, and time-based trends, enabling better business decisions and strategic planning
