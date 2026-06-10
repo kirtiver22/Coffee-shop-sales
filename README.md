@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Analysis-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-Sheets-green?logo=microsoftexcel)
 ☕ Coffee Shop Sales Analysis
 
 This project focuses on analyzing coffee shop sales data to uncover key business insights and support data-driven decision-making. The analysis explores sales performance, customer behavior, and product trends using data visualization and analytical techniques.
